@@ -1,10 +1,10 @@
-# 💳 Credit Risk Modeling System
+# 👥 Customer Churn Prediction
 
 ## 📊 Project Overview
 
-This project is a **Machine Learning Credit Risk Modeling System** that predicts the likelihood of loan default using customer and financial data.
+This project is a **Machine Learning Customer Churn Prediction System** that predicts the likelihood of customers leaving a service based on customer demographics, usage patterns, and account information.
 
-The model helps analyze borrower risk and supports **data-driven credit assessment and lending decisions**.
+The model helps businesses identify **high-risk customers and understand the key factors influencing customer churn**.
 
 ## 🚀 Features
 
@@ -12,9 +12,10 @@ The model helps analyze borrower risk and supports **data-driven credit assessme
 * 🧹 Data Cleaning & Preprocessing
 * 🔍 Feature Engineering
 * 🤖 Logistic Regression Model
+* 🌲 Random Forest Classification
 * 📈 Model Performance Evaluation
-* 🎯 Loan Default Prediction
-* 📉 Confusion Matrix & ROC Curve
+* 🎯 Customer Churn Prediction
+* 📉 Precision, Recall & F1-Score Analysis
 
 ## 🛠️ Tools & Technologies
 
@@ -24,19 +25,19 @@ The model helps analyze borrower risk and supports **data-driven credit assessme
 * Scikit-learn
 * Jupyter Notebook
 * Logistic Regression
+* Random Forest
 
 ## 📁 Dataset
 
-**Dataset:** Credit Risk / Loan Default Dataset
+**Dataset:** Customer Churn Dataset
 **Source:** Kaggle
 
 ## 🎯 Key Insights
 
-* Identifies factors associated with loan default risk.
-* Classifies borrowers based on predicted credit risk.
-* Evaluates model performance using multiple classification metrics.
-* Demonstrates the application of Machine Learning in financial risk analysis.
+* Identifies key factors contributing to customer churn.
+* Classifies customers based on their likelihood of leaving.
+* Compares Logistic Regression and Random Forest performance.
+* Demonstrates the application of Machine Learning in customer retention analytics.
 
 ## 📌 Author
-
-GOPIKA K
+Gopika K
